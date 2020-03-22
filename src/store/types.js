@@ -1,0 +1,2 @@
+export const LOAD_AUTHOR = "LOAD_AUTHOR";
+export const IS_LOADING_AUTHOR = "IS_LOADING_AUTHOR";
